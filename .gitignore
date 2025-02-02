@@ -1,0 +1,17 @@
+# Ignore virtual environment
+.venv/
+# Ignore dataset files if they are large or sensitive
+dataset/
+# Ignore environment variables file for security
+.env
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore OS-specific files
+.DS_Store
+# Ignore log files
+*.log
+# Ignore pickle files if not necessary for sharing
+*.pkl
