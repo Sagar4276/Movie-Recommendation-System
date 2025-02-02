@@ -1,4 +1,5 @@
 🚀 Overview
+
 The Movie Recommender System is a web application built using Streamlit. It allows users to select a movie from a dataset and recommends five similar movies along with their posters by leveraging a precomputed similarity matrix. The movie posters are fetched using the TMDb API.
 
 🛠️ Features
